@@ -1,0 +1,6 @@
+/packages
+/.vs
+/koin/bin
+/koin/App_Data
+/koin/obj
+/koin/Properties
